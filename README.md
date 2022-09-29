@@ -1,5 +1,8 @@
-### Hi there 👋
+## <div align="center">Hi！👋 I‘m Ayu!</div>
 
+***
+
+#### <div align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</div>
 <!--
 **Ayu-1019/Ayu-1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
