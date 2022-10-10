@@ -11,9 +11,8 @@
 - TypeScript
 - Vue
 - React
-- webpack
+- Webpack
 - NodeJs
-- Git
 
 <!--
 **Ayu-1019/Ayu-1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
