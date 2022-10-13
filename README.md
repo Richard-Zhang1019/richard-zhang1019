@@ -3,6 +3,7 @@
 #### <div align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</div>
 
 #### <div align="center"><span>[CSDN](https://blog.csdn.net/weixin_47082552?spm=1010.2135.3001.5343)</span> | <span>[掘金](https://juejin.cn/user/567821036164957/posts)</span> | <span>[个人网站](http://ayu1019.com.cn)</span></div>
+#### <div align="center">![](https://komarev.com/ghpvc/?username=ayu-1019&label=views-count)</div>
 
 ##
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ayu-1019&show_icons=true&icon_color=2E67D3&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
