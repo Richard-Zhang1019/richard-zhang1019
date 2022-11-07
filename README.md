@@ -12,6 +12,9 @@
 - 🧑‍🎓 Student
 - 💼 Location Shanghai
 
+###
+<img align="right" src="https://streak-stats.demolab.com/?user=Ayu-1019" />
+
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 - HTML
 - CSS
@@ -21,6 +24,11 @@
 - React
 - Webpack
 - NodeJs
+
+
+  
+  
+<!--   [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayu-1019)](https://git.io/streak-stats) -->
 
 <!--
 **Ayu-1019/Ayu-1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
