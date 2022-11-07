@@ -25,6 +25,11 @@
 - Webpack
 - NodeJs
 
+###
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ayu-1019&theme=react" />
+
+
+
 
   
   
