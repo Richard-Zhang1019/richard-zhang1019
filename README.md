@@ -6,7 +6,7 @@
 #### <div align="center">![](https://komarev.com/ghpvc/?username=ayu-1019&label=views-count)</div>
 
 ##
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayu-1019&show_icons=true&icon_color=2E67D3&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayu-1019&show_icons=true&icon_color=2E67D3&count_private=true" />
 
 ### My status
 - 🧑‍🎓 Student
