@@ -9,21 +9,20 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ayu-1019&show_icons=true&icon_color=2E67D3&count_private=true" />
 
 ### My status
-- 🧑‍🎓 Student
+- 🧑‍🎓 Student，class of 2023
 - 💼 Location Shanghai
 
 ###
 <img align="right" src="https://streak-stats.demolab.com/?user=Ayu-1019" />
 
-### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Vue
-- React
-- Webpack
-- NodeJs
+### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 👨‍💻
+- Basis：HTML CSS JavaScript ES6+ Typescript
+- Framework：React Vue
+- Efficiency：Taiwind less Ant-design AntV chakra-ui
+- Engineering：Webpack Vite npm yarn pnpm
+- Server：Express Koa
+- Team：Git Github
+- Tools：VSCode Typora
 
 ###
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ayu-1019&theme=react" />
