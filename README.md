@@ -2,7 +2,7 @@
 
 #### <div align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</div>
 
-#### <div align="center"><span>[CSDN](https://blog.csdn.net/weixin_47082552?spm=1010.2135.3001.5343)</span> | <span>[掘金](https://juejin.cn/user/567821036164957/posts)</span> | <span>[个人网站](https://yu-website.vercel.app/)</span></div>
+#### <div align="center"><a href="https://blog.csdn.net/weixin_47082552?spm=1010.2135.3001.5343" target="_blank">CSDN</a> | <a href="https://juejin.cn/user/567821036164957/posts" target="_blank">掘金</a> | <a href="https://yu-website.vercel.app/" target="_blank">个人网站</a></div>
 #### <div align="center">![](https://komarev.com/ghpvc/?username=ayu-1019&label=views-count)</div>
 
 ##
