@@ -25,14 +25,8 @@
 - Tools：VSCode Typora
 
 ###
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ayu-1019&theme=react" />
+<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ayu-1019&theme=react" /> -->
 
-
-
-
-  
-  
-<!--   [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayu-1019)](https://git.io/streak-stats) -->
 
 <!--
 **Ayu-1019/Ayu-1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
