@@ -1,4 +1,4 @@
-## <div align="center">Hi！👋 I‘m Ayu!</div>
+## <div align="center">Hi！👋 I‘m Richard Zhang!</div>
 
 #### <div align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</div>
 
