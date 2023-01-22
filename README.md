@@ -11,6 +11,7 @@
 ### My status
 - 🧑‍🎓 Student，class of 2023
 - 💼 Location Shanghai
+- ✉️ aaaayu1019@gmail.com
 
 ###
 <img align="right" src="https://streak-stats.demolab.com/?user=Ayu-1019" />
@@ -27,6 +28,9 @@
 ###
 <!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ayu-1019&theme=react" /> -->
 
+## Achievement
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayu-1019)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Ayu-1019/Ayu-1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
