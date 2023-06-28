@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-#### <div align="center"><a href="https://richard-docs.vercel.app" target="_blank">Personal Blog Website</a></div>
+#### <div align="center"><a href="https://richard-docs.netlify.app/" target="_blank">Personal Blog Website</a></div>
 #### <div align="center">![](https://komarev.com/ghpvc/?username=richard-zhang1019&label=views-count)</div>
 
 ##
