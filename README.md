@@ -24,7 +24,7 @@
 
 ### My status
 - 🧑‍🎓 Student，class of 2023
-- 💼 Location Shanghai
+- 💼 Location China HangZhou
 - ✉️ aaaayu1019@gmail.com
 
 ###
