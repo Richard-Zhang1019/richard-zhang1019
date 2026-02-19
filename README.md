@@ -5,9 +5,6 @@
 #### <div align="center"><a href="https://richard-docs.netlify.app/" target="_blank">Personal Blog Website</a></div>
 #### <div align="center">![](https://komarev.com/ghpvc/?username=richard-zhang1019&label=views-count)</div>
 
-##
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=richard-zhang1019&show_icons=true&icon_color=2E67D3&count_private=true" />
-
 ### My status
 - 🧑‍🎓 Student，class of 2023
 - 💼 Location China HangZhou
@@ -15,7 +12,8 @@
 
 ## Achievement
 
-<img src="https://git-hub-insights-virid.vercel.app/api/insight?username=Richard-Zhang1019&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" />
+![](https://git-hub-insights-virid.vercel.app/api/insight?username=Richard-Zhang1019&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true)
+
 <!--
 **richard-zhang1019/richard-zhang1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
